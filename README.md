@@ -21,10 +21,12 @@ The layout and content follow the design provided in Figma and PNG files.
 
 ## Live Demo
 
-You can check out the live version of this project here: [Netlify Demo](https://fantastic-kashata-89ed81.netlify.app)
+You can check out the live version of this project here: [Netlify Demo](https://serene-concha-2cc2e9.netlify.app)
 
 contact:
 
 Name: Petr Hrankay
 Email: pean.tmc@seznam.cz
 Discord: PETR H.
+
+
